@@ -15,7 +15,7 @@
     } else {
         echo "Invalid operation";
     }
-
+    $operation = "subtraction";
     // using switch statement
     switch ($operation) {
         case "addition":
@@ -35,6 +35,7 @@
     }
 
     // using switch statement with multiple cases
+    $operation = "multiplication";
     switch ($operation) {
         case "addition":
         case "subtraction":
