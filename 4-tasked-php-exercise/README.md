@@ -43,55 +43,55 @@ This repository contains a collection of exercises to help you practice PHP back
 
 ### Task 1: Variable Types
 - [ ] Create a script that assigns values to different variables (string, integer, float, and boolean) and prints their types and values.
-- Solution: [Task 1 Solution](task1-solution.php)
+- Solution: [Task 1 Solution](task1v-solution.php)
 
 ### Task 2: String to Number Conversion
 - [ ] Write a PHP script that converts a string representing a number into an integer and a float, and prints the results.
-- Solution: [Task 2 Solution](task2-solution.php)
+- Solution: [Task 2 Solution](task2v-solution.php)
 
 ### Task 3: Age Categorization
 - [ ] Define a variable `age` and print whether the person is an adult or a minor based on the value.
-- Solution: [Task 3 Solution](task3-solution.php)
+- Solution: [Task 3 Solution](task3v-solution.php)
 
 ### Task 4: Simple Calculator
 - [ ] Create a simple calculator that takes two numbers and an operation (e.g., addition, subtraction) as input, and prints the result.
-- Solution: [Task 4 Solution](task4-solution.php)
+- Solution: [Task 4 Solution](task4v-solution.php)
 
 ## Conditional Statements
 
 ### Task 1: Employee Check
 - [ ] Given an array of employee names, check if "John" is in the list. If he is, print "John is an employee." If not, print "John is not an employee."
-- Solution: [Task 1 Solution](task1-solution.php)
+- Solution: [Task 1 Solution](task1c-solution.php)
 
 ### Task 2: Even or Odd
 - [ ] Create a script that checks if a number is even or odd and prints a message accordingly.
-- Solution: [Task 2 Solution](task2-solution.php)
+- Solution: [Task 2 Solution](task2c-solution.php)
 
 ### Task 3: Age Grouping
 - [ ] Write a script that categorizes a person's age into groups: child, teenager, adult, or senior based on their age.
-- Solution: [Task 3 Solution](task3-solution.php)
+- Solution: [Task 3 Solution](task3c-solution.php)
 
 ### Task 4: Grading System
 - [ ] Implement a grading system that takes a score and prints whether the student passed or failed, with different messages for grades A, B, C, etc.
-- Solution: [Task 4 Solution](task4-solution.php)
+- Solution: [Task 4 Solution](task4c-solution.php)
 
 ## Loops
 
 ### Task 1: Number Printing
 - [ ] Create a loop that prints all numbers from 1 to 100.
-- Solution: [Task 1 Solution](task1-solution.php)
+- Solution: [Task 1 Solution](task1l-solution.php)
 
 ### Task 2: Sum of Numbers
 - [ ] Given an array of numbers, use a loop to calculate the sum of the numbers.
-- Solution: [Task 2 Solution](task2-solution.php)
+- Solution: [Task 2 Solution](task2l-solution.php)
 
 ### Task 3: Multiplication Table
 - [ ] Write a script that displays a multiplication table for numbers 1 through 10.
-- Solution: [Task 3 Solution](task3-solution.php)
+- Solution: [Task 3 Solution](task3l-solution.php)
 
 ### Task 4: Employee Departments
 - [ ] Loop through an associative array of employees and their departments, printing each employee's name and their department.
-- Solution: [Task 4 Solution](task4-solution.php)
+- Solution: [Task 4 Solution](task4l-solution.php)
 
 ## Functions
 
