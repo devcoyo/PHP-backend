@@ -267,10 +267,8 @@ PHP is an open source server side scripting language. It is used to develop web 
 
 ## License
 
-
 ## Author
 [Titus Kiplagat]()
 ## CoAuthor
 [Dev Coyo]()
 ***
-
